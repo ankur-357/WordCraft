@@ -1,5 +1,5 @@
 {
-  "name": "pro-writer",
+  "name": "wordcraft",
   "private": true,
   "scripts": {
     "dev": "next dev",
